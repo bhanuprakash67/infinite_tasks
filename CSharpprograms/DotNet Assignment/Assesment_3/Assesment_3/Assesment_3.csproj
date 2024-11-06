@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C6AFCC2A-BDE3-477F-8D63-ABE0017CB8B6}</ProjectGuid>
+    <ProjectGuid>{81A8262B-4DC8-4754-BF52-BACB73687C94}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Assesment_1</RootNamespace>
-    <AssemblyName>Assesment_1</AssemblyName>
+    <RootNamespace>Assesment_3</RootNamespace>
+    <AssemblyName>Assesment_3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Assesment_3.Length_of_word</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,11 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="find_largest_num.cs" />
-    <Compile Include="First_last.cs" />
-    <Compile Include="Fourth_q.cs" />
+    <Compile Include="Equal_words.cs" />
+    <Compile Include="Length_of_word.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reversed_word.cs" />
+    <Compile Include="Reverse_word.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
