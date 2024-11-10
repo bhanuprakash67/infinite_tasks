@@ -46,12 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Deposit_withdrawal.cs" />
     <Compile Include="Equal_words.cs" />
     <Compile Include="Length_of_word.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reversed_word.cs" />
     <Compile Include="Reverse_word.cs" />
+    <Compile Include="Sales_details.cs" />
+    <Compile Include="Student_marks.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
