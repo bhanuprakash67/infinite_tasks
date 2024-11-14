@@ -1,0 +1,7 @@
+C:\DotNet Training\CSharpprograms\DotNet Assignment\Assignment-5\Books\Books\obj\Debug\Books.csproj.AssemblyReference.cache
+C:\DotNet Training\CSharpprograms\DotNet Assignment\Assignment-5\Books\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+C:\DotNet Training\CSharpprograms\DotNet Assignment\Assignment-5\Books\Books\bin\Debug\Books.exe.config
+C:\DotNet Training\CSharpprograms\DotNet Assignment\Assignment-5\Books\Books\bin\Debug\Books.exe
+C:\DotNet Training\CSharpprograms\DotNet Assignment\Assignment-5\Books\Books\bin\Debug\Books.pdb
+C:\DotNet Training\CSharpprograms\DotNet Assignment\Assignment-5\Books\Books\obj\Debug\Books.exe
+C:\DotNet Training\CSharpprograms\DotNet Assignment\Assignment-5\Books\Books\obj\Debug\Books.pdb

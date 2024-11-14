@@ -1,0 +1,7 @@
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_2\Threading\Threading\bin\Debug\Threading.exe.config
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_2\Threading\Threading\bin\Debug\Threading.exe
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_2\Threading\Threading\bin\Debug\Threading.pdb
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_2\Threading\Threading\obj\Debug\Threading.csproj.AssemblyReference.cache
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_2\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_2\Threading\Threading\obj\Debug\Threading.exe
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_2\Threading\Threading\obj\Debug\Threading.pdb
