@@ -1,0 +1,7 @@
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_4\Employees\Employees\bin\Debug\Employees.exe.config
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_4\Employees\Employees\bin\Debug\Employees.exe
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_4\Employees\Employees\bin\Debug\Employees.pdb
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_4\Employees\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_4\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_4\Employees\Employees\obj\Debug\Employees.exe
+C:\DotNet Training\CSharpprograms\DotNet Assesment\Assesment_4\Employees\Employees\obj\Debug\Employees.pdb
