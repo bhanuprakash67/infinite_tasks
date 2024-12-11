@@ -1,0 +1,7 @@
+C:\DotNet Training\SQL\Assesment\Assesment_3\Procedure_using_ADO_classes\Procedure_using_ADO_classes\obj\Debug\Procedure_using_ADO_classes.csproj.AssemblyReference.cache
+C:\DotNet Training\SQL\Assesment\Assesment_3\Procedure_using_ADO_classes\Procedure_using_ADO_classes\obj\Debug\Procedure_using_ADO_classes.csproj.CoreCompileInputs.cache
+C:\DotNet Training\SQL\Assesment\Assesment_3\Procedure_using_ADO_classes\Procedure_using_ADO_classes\bin\Debug\Procedure_using_ADO_classes.exe.config
+C:\DotNet Training\SQL\Assesment\Assesment_3\Procedure_using_ADO_classes\Procedure_using_ADO_classes\bin\Debug\Procedure_using_ADO_classes.exe
+C:\DotNet Training\SQL\Assesment\Assesment_3\Procedure_using_ADO_classes\Procedure_using_ADO_classes\bin\Debug\Procedure_using_ADO_classes.pdb
+C:\DotNet Training\SQL\Assesment\Assesment_3\Procedure_using_ADO_classes\Procedure_using_ADO_classes\obj\Debug\Procedure_using_ADO_classes.exe
+C:\DotNet Training\SQL\Assesment\Assesment_3\Procedure_using_ADO_classes\Procedure_using_ADO_classes\obj\Debug\Procedure_using_ADO_classes.pdb
