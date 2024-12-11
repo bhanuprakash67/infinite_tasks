@@ -1,0 +1,7 @@
+C:\DotNet Training\ADO.Net\ADO.net Assingment_1\ADO.net_Assingment\ADO.net_Assingment\bin\Debug\ADO.net_Assingment.exe.config
+C:\DotNet Training\ADO.Net\ADO.net Assingment_1\ADO.net_Assingment\ADO.net_Assingment\bin\Debug\ADO.net_Assingment.exe
+C:\DotNet Training\ADO.Net\ADO.net Assingment_1\ADO.net_Assingment\ADO.net_Assingment\bin\Debug\ADO.net_Assingment.pdb
+C:\DotNet Training\ADO.Net\ADO.net Assingment_1\ADO.net_Assingment\ADO.net_Assingment\obj\Debug\ADO.net_Assingment.csproj.AssemblyReference.cache
+C:\DotNet Training\ADO.Net\ADO.net Assingment_1\ADO.net_Assingment\ADO.net_Assingment\obj\Debug\ADO.net_Assingment.csproj.CoreCompileInputs.cache
+C:\DotNet Training\ADO.Net\ADO.net Assingment_1\ADO.net_Assingment\ADO.net_Assingment\obj\Debug\ADO.net_Assingment.exe
+C:\DotNet Training\ADO.Net\ADO.net Assingment_1\ADO.net_Assingment\ADO.net_Assingment\obj\Debug\ADO.net_Assingment.pdb
