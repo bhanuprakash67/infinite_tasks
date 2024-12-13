@@ -1,0 +1,7 @@
+C:\DotNet Training\HTML\Assignment_1\HTML_Assignment_1\HTML_Assignment_1\bin\Debug\HTML_Assignment_1.exe.config
+C:\DotNet Training\HTML\Assignment_1\HTML_Assignment_1\HTML_Assignment_1\bin\Debug\HTML_Assignment_1.exe
+C:\DotNet Training\HTML\Assignment_1\HTML_Assignment_1\HTML_Assignment_1\bin\Debug\HTML_Assignment_1.pdb
+C:\DotNet Training\HTML\Assignment_1\HTML_Assignment_1\HTML_Assignment_1\obj\Debug\HTML_Assignment_1.csproj.AssemblyReference.cache
+C:\DotNet Training\HTML\Assignment_1\HTML_Assignment_1\HTML_Assignment_1\obj\Debug\HTML_Assignment_1.csproj.CoreCompileInputs.cache
+C:\DotNet Training\HTML\Assignment_1\HTML_Assignment_1\HTML_Assignment_1\obj\Debug\HTML_Assignment_1.exe
+C:\DotNet Training\HTML\Assignment_1\HTML_Assignment_1\HTML_Assignment_1\obj\Debug\HTML_Assignment_1.pdb
