@@ -1,0 +1,7 @@
+C:\DotNet Training\CC7\CC7\CC7\bin\Debug\CC7.exe.config
+C:\DotNet Training\CC7\CC7\CC7\bin\Debug\CC7.exe
+C:\DotNet Training\CC7\CC7\CC7\bin\Debug\CC7.pdb
+C:\DotNet Training\CC7\CC7\CC7\obj\Debug\CC7.csproj.AssemblyReference.cache
+C:\DotNet Training\CC7\CC7\CC7\obj\Debug\CC7.csproj.CoreCompileInputs.cache
+C:\DotNet Training\CC7\CC7\CC7\obj\Debug\CC7.exe
+C:\DotNet Training\CC7\CC7\CC7\obj\Debug\CC7.pdb
