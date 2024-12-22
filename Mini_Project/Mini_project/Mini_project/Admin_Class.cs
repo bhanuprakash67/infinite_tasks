@@ -18,39 +18,36 @@ namespace Mini_project
 
         public static void Admin_block()
         {
-            while (true) {
-                Console.WriteLine("Select one option 1.Add Trains or 2.Modify Trains or 3.Delete Trains");
-                Console.WriteLine("1.Add Trains");
-                Console.WriteLine("2.Modify Trains");
-                Console.WriteLine("3.Delete Trains");
-                Console.WriteLine("4.Exit");
 
-                Console.WriteLine("Enter your choice(1/2/3/4):");
-                int AdminChoice = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Select one option 1.Add Trains or 2.Modify Trains or 3.Delete Trains");
+            Console.WriteLine("1.Add Trains");
+            Console.WriteLine("2.Modify Trains");
+            Console.WriteLine("3.Delete Trains");
+            Console.WriteLine("4.Exit");
 
-                switch (AdminChoice)
-                {
-                    case 1:
-                        Add_Trains();
-                        break;
-                    case 2:
-                        Modify_Trains();
-                        break;
-                    case 3:
-                        Delete_Trains();
-                        break;
-                    case 4:
-                        Console.WriteLine("Thank you:");
-                        break;
-                    default:
-                        Console.WriteLine("Invalid option");
-                        break;
-                }
-                if(AdminChoice == "Exit")
-                {
+            Console.WriteLine("Enter your choice(1/2/3/4):");
+            int AdminChoice = Convert.ToInt32(Console.ReadLine());
+
+            switch (AdminChoice)
+            {
+                case 1:
+                    Add_Trains();
                     break;
-                }
+                case 2:
+                    Modify_Trains();
+                    break;
+                case 3:
+                    Delete_Trains();
+                    break;
+                case 4:
+                    Console.WriteLine("Thank you:");
+                    break;
+                default:
+                    Console.WriteLine("Invalid option");
+                    break;
             }
+
+        }
             public static void Add_Trains()
             {
 
@@ -176,4 +173,4 @@ namespace Mini_project
         }
 
     }
-}
+
