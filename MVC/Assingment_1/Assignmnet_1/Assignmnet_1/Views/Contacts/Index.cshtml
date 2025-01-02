@@ -37,7 +37,7 @@
     <td>
 
 
-        @using (Html.BeginForm("Delete", "Contacts", FormMethod.Post))
+        @using (Html.BeginForm("Delete", "Contact", FormMethod.Post))
         {
 @Html.Hidden("id", item.Id)
                     <button type="submit" class="btn btn-danger">Delete</button>}

@@ -30,14 +30,14 @@ namespace Assignmnet_1.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult>Create(Contact contact)
+        public async Task<ActionResult>Create(Contact contacts)
         {
             if (ModelState.IsValid)
             {
-                await repository.CreateAsync(contact);
+                await repository.CreateAsync(contacts);
                 return RedirectToAction("Index");
             }
-            return View(contact);
+            return View(contacts);
         }
 
         [HttpPost]
